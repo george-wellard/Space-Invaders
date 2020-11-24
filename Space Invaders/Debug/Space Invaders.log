@@ -1,0 +1,32 @@
+﻿  AssetManager.cpp
+  Background.cpp
+  Bullet.cpp
+  Collision.cpp
+  Game.cpp
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\Game.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameState.cpp
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(169,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(224,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(266,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Space Invaders\src\GameState.cpp(281,20): warning C4018: '<': signed/unsigned mismatch
+  HUD.cpp
+  Invader.cpp
+  main.cpp
+  Player.cpp
+  Shield.cpp
+  StateMachine.cpp
+  Generating Code...
+  Space Invaders.vcxproj -> C:\Users\georg\OneDrive\Documents\Uni Projects\Space Invaders\Debug\Space Invaders.exe
