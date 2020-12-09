@@ -16,7 +16,9 @@ void Shield::setPos(float x, float y)
 
 void Shield::removeLife()
 {
-	//shieldCut + 50;
+	shieldCut.left += 50;
+
+	shield.setTextureRect(shieldCut);
 }
 
 void Shield::Draw()
